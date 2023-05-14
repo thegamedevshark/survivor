@@ -7,7 +7,7 @@ player = {
 	x = settings.screen.width / 2,
 	y = settings.screen.height / 2,
 
-	speed = 100,
+	speed = 50,
 
 	gfx = sprite("bin/gfx/knight.ase"),
 
